@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<whisperplay>
+    <dial>
+        <application>
+            <dialid>CastItTV</dialid>
+            <authorizedOrigins>
+                <origin>*</origin>
+            </authorizedOrigins>
+            <startAction>android.intent.action.MAIN</startAction>
+        </application>
+    </dial>
+</whisperplay>
